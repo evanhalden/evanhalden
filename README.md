@@ -21,3 +21,8 @@ from the native layer up to the screens people actually touch.
     <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=evanhalden&starting_year=2014&hide_border=true&theme=default">
   </picture>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evanhalden/evanhalden/output/github-snake-dark.svg">
+  <img alt="Contribution snake" width="100%" src="https://raw.githubusercontent.com/evanhalden/evanhalden/output/github-snake.svg">
+</picture>
